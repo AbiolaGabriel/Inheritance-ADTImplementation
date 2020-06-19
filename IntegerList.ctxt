@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=IntegerList
+comment0.text=\n\ Write\ a\ description\ of\ class\ IntegerList\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=IntegerList()
+comment2.params=x\ y
+comment2.target=IntegerList(java.lang.Integer,\ Cell)
+comment3.params=x
+comment3.target=void\ append(java.lang.Integer)
+comment3.text=\n\ The\ method\ creates\ a\ root\ for\ the\ Cell\ list\ to\ begin\ and\ then\ adds\ a\ value\ to\ the\ root\n\ if\ the\ root\ does\ not\ exist;\ otherwise\ it\ uses\ the\ same\ append\ method\ as\ the\ Cell\ class\n\n\ @param\ x\ -\ An\ integer\ object\ will\ be\ added\ as\ the\ value\ of\ the\ Cell\ object\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ The\ method\ checks\ if\ a\ root\ exist\ and\ if\ it\ does\ not\ it\ returns\ an\ empty\ string;\n\ otherwise\ it\ uses\ the\ same\ toString\ method\ as\ the\ Cell\ class\n\n\ @return\ -\ returns\ a\ String\ with\ all\ the\ values\ of\ Cell\ objects\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\n\ The\ method\ checks\ to\ see\ if\ the\ integerlist\ is\ empty\ or\ not\n\n\ @return\ -\ A\ boolean\ depending\ on\ whether\ the\ list\ is\ empty\ or\ not\ which\ is\ based\ on\ whether\ there's\ a\ root\ or\ not\n
+comment6.params=
+comment6.target=Cell\ getRoot()
+numComments=7

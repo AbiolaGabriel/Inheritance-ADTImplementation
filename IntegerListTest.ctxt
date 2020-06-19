@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IntegerListTest
+comment0.text=\n\ The\ test\ class\ IntegerListTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=IntegerListTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ IntegerListTest\n
+comment2.params=
+comment2.target=void\ testAppend()
+comment3.params=
+comment3.target=void\ testToString()
+comment4.params=
+comment4.target=void\ testEmpty()
+numComments=5

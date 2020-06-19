@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ Write\ a\ description\ of\ class\ ExperimentController\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=numofItems\ seed
+comment1.target=ExperimentController(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=numofItems\ seed
+comment3.target=long\ timeToAppend(int,\ int)
+comment4.params=numofItems\ seed
+comment4.target=long\ timeToString(int,\ int)
+numComments=5

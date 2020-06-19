@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\n\ The\ Cell\ class\ creates\ new\ Cell\ objects\ to\ append\ values\ to\ and\ to\ \n\ also\ print\ the\ value\ of\ each\ cell\ object\n\n\ @Abiola\ Olofin\n\ \n
+comment1.params=
+comment1.target=Cell()
+comment2.params=val\ next
+comment2.target=Cell(java.lang.Integer,\ Cell)
+comment3.params=x
+comment3.target=void\ append(java.lang.Integer)
+comment3.text=\n\ This\ method\ adds\ an\ integer\ value\ to\ the\ Cell\ object\n\ if\ the\ current\ cell\ does\ not\ have\ a\ next\ Cell\ to\ point\ to\n\n\ @param\ x\ -\ An\ Integer\ object\ that\ will\ be\ added\ as\ the\ value\ of\ the\ current\ Cell\ object\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ This\ method\ returns\ a\ string\ that\ holds\ all\ the\ value\ of\ each\ of\ the\ Cell\ objects\n\ and\ the\ method\ is\ recursive\n\n\ @return\ -\ returns\ a\ String\ with\ all\ the\ values\ of\ each\ of\ the\ Cell\ objects\n
+comment5.params=
+comment5.target=java.lang.Integer\ getVal()
+comment6.params=
+comment6.target=Cell\ getNext()
+numComments=7
